@@ -111,8 +111,8 @@ document.querySelector('.js-result')
 updateScoreElement();
 document.querySelector('.js-moves')
 .innerHTML = `You
-${playerMove} - 
-${computerMove}Computer`;
+ ${playerMove} - 
+${computerMove}  Computer`;
 
 }
 
